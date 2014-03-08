@@ -29,7 +29,7 @@ $ cp target/liferay-spring-mvc-portlet.war $LIFERAY_HOME/deploy/
 Configuration
 -------------
 
-Default settings are Liferay EE 6.2.0, Java 1.6, Portlet 2.0, Spring 3.2, Hibernate 4.2.0 and Bootstrap 3.1.1
+Default settings are Liferay CE 6.2.0, Java 1.6, Portlet 2.0, Spring 3.2, Hibernate 4.2.0 and Bootstrap 3.1.1
 All can be configured in [pom.xml](https://github.com/JBouguima/Liferay_6.2.0-SpringMVC-Hibernate-Bootstrap/pom.xml)
 
 ```xml
