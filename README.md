@@ -90,5 +90,5 @@ CREATE TABLE country (
 Licence
 -------
 
-Copyright 2013 Jileni BOUGUIMA
+Copyright 2013 Jileni BOUGUIMA Apache License V2.0
 
